@@ -1,0 +1,96 @@
+
+objMap.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+castle
+  rotate: false
+  xy: 2, 30
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+lighthouse
+  rotate: false
+  xy: 151, 87
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 151, 2
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+ship-pirates
+  rotate: false
+  xy: 229, 3
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+mill
+  rotate: false
+  xy: 237, 123
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+animal-skull
+  rotate: false
+  xy: 237, 88
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+fort
+  rotate: false
+  xy: 320, 22
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 337, 154
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+octopus
+  rotate: false
+  xy: 444, 171
+  size: 170, 77
+  orig: 170, 77
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 473, 96
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+pointer-road
+  rotate: false
+  xy: 473, 13
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+scorpion
+  rotate: false
+  xy: 529, 16
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+signpost
+  rotate: false
+  xy: 568, 99
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1

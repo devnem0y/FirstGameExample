@@ -1,0 +1,110 @@
+
+mill.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anvil
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+anvilimproved
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+anvilinactive
+  rotate: false
+  xy: 166, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 248, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+axeimproved
+  rotate: false
+  xy: 330, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+axeinactive
+  rotate: false
+  xy: 412, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 494, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+carrotimproved
+  rotate: false
+  xy: 576, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+carrotinactive
+  rotate: false
+  xy: 658, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 740, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+foodimproved
+  rotate: false
+  xy: 822, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+foodinactive
+  rotate: false
+  xy: 904, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mine
+  rotate: false
+  xy: 986, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mineimproved
+  rotate: false
+  xy: 1068, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mineinactive
+  rotate: false
+  xy: 1150, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

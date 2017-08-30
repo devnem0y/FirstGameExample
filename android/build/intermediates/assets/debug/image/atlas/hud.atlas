@@ -1,0 +1,89 @@
+
+hud.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armyDown
+  rotate: false
+  xy: 2, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+armyUp
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bookDown
+  rotate: false
+  xy: 84, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bookUp
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+checkDown
+  rotate: false
+  xy: 166, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+checkUp
+  rotate: false
+  xy: 166, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+nextDayDown
+  rotate: false
+  xy: 248, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+nextDayUp
+  rotate: false
+  xy: 248, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+leftDown
+  rotate: false
+  xy: 330, 116
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+leftUp
+  rotate: false
+  xy: 330, 66
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+rightDown
+  rotate: false
+  xy: 380, 116
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+rightUp
+  rotate: false
+  xy: 330, 16
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

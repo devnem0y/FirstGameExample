@@ -1,0 +1,82 @@
+
+castle.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bighouse
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bighouseinactive
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fort
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fortinactive
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mill
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+millinactive
+  rotate: false
+  xy: 512, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+port
+  rotate: false
+  xy: 614, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+portinactive
+  rotate: false
+  xy: 716, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnM
+  rotate: false
+  xy: 818, 47
+  size: 128, 55
+  orig: 128, 55
+  offset: 0, 0
+  index: -1
+accept
+  rotate: false
+  xy: 948, 38
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+btnS
+  rotate: false
+  xy: 818, 15
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1

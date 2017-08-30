@@ -1,0 +1,19 @@
+
+mySlider.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knob
+  rotate: false
+  xy: 2, 2
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 7, 6
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

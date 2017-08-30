@@ -1,0 +1,180 @@
+
+objMap.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+castle-outline
+  rotate: false
+  xy: 2, 311
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+castle
+  rotate: false
+  xy: 2, 91
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+fort-outline
+  rotate: false
+  xy: 151, 430
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+fort
+  rotate: false
+  xy: 151, 329
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+octopus-outline
+  rotate: false
+  xy: 304, 452
+  size: 170, 77
+  orig: 170, 77
+  offset: 0, 0
+  index: -1
+lighthouse-outline
+  rotate: false
+  xy: 476, 368
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+octopus
+  rotate: false
+  xy: 304, 373
+  size: 170, 77
+  orig: 170, 77
+  offset: 0, 0
+  index: -1
+lighthouse
+  rotate: false
+  xy: 151, 166
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+mill-outline
+  rotate: false
+  xy: 237, 202
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+mill
+  rotate: false
+  xy: 337, 246
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+ship-pirates-outline
+  rotate: false
+  xy: 2, 7
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 437, 272
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+scorpion-outline
+  rotate: false
+  xy: 151, 86
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+ship-pirates
+  rotate: false
+  xy: 93, 2
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+spider-outline
+  rotate: false
+  xy: 337, 171
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+pointer-road-outline
+  rotate: false
+  xy: 184, 3
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 238, 127
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+scorpion
+  rotate: false
+  xy: 333, 91
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+house-outline
+  rotate: false
+  xy: 240, 42
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 318, 6
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+animal-skull-outline
+  rotate: false
+  xy: 240, 7
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+pointer-road
+  rotate: false
+  xy: 396, 8
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+animal-skull
+  rotate: false
+  xy: 437, 237
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+signpost-outline
+  rotate: false
+  xy: 432, 165
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+signpost
+  rotate: false
+  xy: 420, 93
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
